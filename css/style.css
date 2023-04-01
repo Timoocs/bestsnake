@@ -1,0 +1,11 @@
+body{
+    background: rgb(35, 34, 34);
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.logout{
+   font-size: 50px;
+}
+.save{
+    display: block;
+}
